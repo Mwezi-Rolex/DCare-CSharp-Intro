@@ -1,0 +1,15 @@
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\bin\Debug\net7.0\NdejjeSession.exe
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\bin\Debug\net7.0\NdejjeSession.deps.json
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\bin\Debug\net7.0\NdejjeSession.runtimeconfig.json
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\bin\Debug\net7.0\NdejjeSession.dll
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\bin\Debug\net7.0\NdejjeSession.pdb
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.csproj.AssemblyReference.cache
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.AssemblyInfoInputs.cache
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.AssemblyInfo.cs
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.csproj.CoreCompileInputs.cache
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.dll
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\refint\NdejjeSession.dll
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.pdb
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\NdejjeSession.genruntimeconfig.cache
+C:\Users\smmwe\Desktop\Datacare\NdejjeSession\NdejjeSession\obj\Debug\net7.0\ref\NdejjeSession.dll
